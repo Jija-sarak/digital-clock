@@ -8,9 +8,7 @@ A sleek, responsive digital clock web application displaying real-time date and 
 
 - **Real-Time Clock**: Updates the time every second.
 - **Date Display**: Shows the current day, date, month, and year.
-- **Responsive Design**: Adapts seamlessly to different screen sizes.
 - **Interactive Hover Effect**: Visually highlights the clock on hover with dynamic styling.
-- **User-Friendly Interface**: Clean, modern UI with intuitive design.
 
 ---
 
@@ -65,7 +63,6 @@ digital-clock/
 ## 🔧 Future Enhancements
 
 - Add theme options (dark/light mode).
-- Include customizable time zones.
-- Implement alarm functionality.
+- Responsive Design.
 
 ---
