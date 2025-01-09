@@ -48,7 +48,6 @@ digital-clock/
 ## 🎨 Styling Highlights
 
 - **Hover Effects**: Dynamic background and shadow changes on hover.
-- **Media Queries**: Ensures proper scaling and layout on various devices.
 - **Reflective Effect**: Adds a subtle reflection for an elegant look.
 
 ---
